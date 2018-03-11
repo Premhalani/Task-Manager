@@ -13,6 +13,14 @@ Features:
 5. Notification to display progress of the task
 6. Swipe feature on the rows to perform actions like "Force Execute" and "Snooze"
 
+
+<p align="center">
+  <img src="images/ss_1.png" width="350"/>
+  <img src="images/ss_2.png" width="350"/>
+  <img src="images/ss_3.png" width="350"/>
+  <img src="images/ss_4.png" width="350"/>
+</p>
+
 Libraries:
 
 Cloud Rail: https://github.com/CloudRail/cloudrail-si-android-sdk
